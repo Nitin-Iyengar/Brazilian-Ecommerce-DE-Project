@@ -183,7 +183,8 @@ Navigating these challenges not only strengthened the execution of my project bu
 
 ## Future Enhancements
 
-Below are the points which I am  further improving this project. Here are some specific ideas for future enhancements:
+Below are the specific ideas for future enhancements to further improve this project:
+
 
 1. **Abstraction of Database Credentials**: Currently, I have hardcoded database credentials in PySpark scripts, which can be a security risk. To enhance security and maintainability, I am planning to implement a credential abstraction mechanism. This could involve using a secure configuration management system or environment variables to store and retrieve database credentials.
 
