@@ -15,7 +15,7 @@ For a deeper understanding of the dataset's structure and field descriptions, re
 1. Website - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data
 
 ## Architecture 
-![Project Architecture](architecture.jpg)
+![Project Architecture](Architecture.png)
 
 ## Technology Used
 - Programming Language - Python
@@ -41,7 +41,7 @@ To start, acquire brazilian ecommerce dataset from kaggle. You can download the 
 ## Step 2: Data Modeling
 In this step, you will learn about data modeling concepts such as fact and dimension tables. Fact tables contain core numerical data, while dimension tables provide descriptive attributes to provide context for the fact data. Understanding these concepts is crucial for designing an effective data model that enables efficient analysis and reporting.
 
-<img src="data_model.jpeg">
+<img src="Data Model.png">
 
 ## Step 3: Set Up MySQL Database on GCP
 
