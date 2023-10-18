@@ -1,5 +1,7 @@
 # End-to-End Data Engineering Project with GCP Big Data Technologies
 
+Access my project files here --> https://github.com/Nitin0909/Brazilian-Ecommerce-DE-Project
+
 ## Introduction
 
 This project demonstrates how we can leverage the Google Cloud Platform to create an ETL (Extract, Transform, Load) pipeline using big data technologies. I'am using a dataset from Brazilian e-commerce, available on Kaggle, to illustrate this process. The dataset contains various categories, including customer data, geolocation details, order information, payment records, seller profiles, and product listings. Through data processing and modeling, we aim to reveal insights like sales trends, top-performing states and cities, popular product categories, leading sellers, average order values, and the typical delivery times, among other valuable information.
