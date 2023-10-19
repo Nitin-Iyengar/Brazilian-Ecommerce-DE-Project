@@ -160,7 +160,8 @@ This step adds a crucial layer of data visualization to the project, making it m
 
 <img  src="Brazilian_Ecommerce_Dashboard-2.png">
 
-link to Dashboard - 
+
+Link to Dashboard -  [Power BI Dashboard](https://app.powerbi.com/groups/me/reports/cca1cc0f-eef9-4bdd-afb7-d6036eb86210/ReportSection?experience=power-bi)
   
 
 
