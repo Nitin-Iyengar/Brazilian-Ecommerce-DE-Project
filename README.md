@@ -154,7 +154,11 @@ The dashboard serves as a valuable tool for extracting insights from the project
 This step adds a crucial layer of data visualization to the project, making it more accessible and insightful for users.
 
 
-<img  src="Dashboard.png">
+<img  src="Brazilian_Ecommerce_Dashboard.png">
+
+<img  src="Brazilian_Ecommerce_Dashboard-1.png">
+
+<img  src="Brazilian_Ecommerce_Dashboard-2.png">
 
 link to Dashboard - 
   
