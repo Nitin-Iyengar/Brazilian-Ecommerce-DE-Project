@@ -53,7 +53,6 @@ For a deeper understanding of the dataset's structure and field descriptions, re
 
 ## Project Steps
 
-This project follows a step-by-step process to build the Uber ETL pipeline:
 
   
 ## Step 1: Data Acquisition
