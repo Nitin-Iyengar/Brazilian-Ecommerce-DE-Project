@@ -2,7 +2,7 @@
 # End-to-End Data Engineering Project with GCP Big Data Technologies
 
 
-Access my project files here - [Brazilian-Ecommerce-DE-Project](https://github.com/Nitin0909/Brazilian-Ecommerce-DE-Project)
+Access my project files here - [Brazilian-Ecommerce-DE-Project](https://github.com/Nitin-Iyengar/Brazilian-Ecommerce-DE-Project)
 
 
 ## Introduction
